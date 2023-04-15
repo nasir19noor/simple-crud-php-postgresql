@@ -2,7 +2,7 @@
 
 Please run this command to install apache and dependency package
 
-sudo apt install ghostscript \
+***sudo apt install ghostscript \
                  libapache2-mod-php \
                  php \
                  php-bcmath \
@@ -14,6 +14,6 @@ sudo apt install ghostscript \
                  php-mysql \
                  php-xml \
                  php-zip \
-				 php-pgsql \
-				 postgresql-client-common \
-				 postgresql-client 
+		 php-pgsql \
+		 postgresql-client-common \
+		 postgresql-client ***
