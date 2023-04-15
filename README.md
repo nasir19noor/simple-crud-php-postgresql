@@ -18,4 +18,4 @@ sudo apt install ghostscript \
 		 php-pgsql \
 		 postgresql-client-common \
 		 postgresql-client
-		 ```
+		 
