@@ -19,3 +19,4 @@ sudo apt install ghostscript \
 		 postgresql-client-common \
 		 postgresql-client
 		 
+```
