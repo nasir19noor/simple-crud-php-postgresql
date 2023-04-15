@@ -16,4 +16,4 @@ Please run this command to install apache and dependency package
                  php-zip \
 		 php-pgsql \
 		 postgresql-client-common \
-		 postgresql-client ```
+		 postgresql-client```
