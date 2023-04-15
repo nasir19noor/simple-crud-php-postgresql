@@ -36,6 +36,7 @@ Create Database test then quit
 ```
 CREATE DATABASE test;
 \q
+```
 
 Go to work directory that you put all scripts and restore database
 ```
