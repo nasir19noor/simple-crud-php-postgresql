@@ -20,3 +20,8 @@ sudo apt install ghostscript \
 		 postgresql-client
 		 
 ```
+If you want to install Postgresql server on the same server, please run this command
+```
+sudo apt install postgresql postgresql-contrib
+sudo systemctl start postgresql.service
+```
