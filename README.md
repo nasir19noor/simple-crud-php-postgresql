@@ -40,5 +40,5 @@ CREATE DATABASE test;
 
 Go to work directory that you put all scripts and restore database
 ```
-psql -h <IP-orURL-of-Postgresql> -U <username> <database-name> < employee.sql
+psql -h <IP-or-URL-of-Postgresql> -U <username> <database-name> < employee.sql
 ```									     
