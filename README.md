@@ -3,7 +3,7 @@
 Please run this command to install apache and dependency package
 
 ```
-sudo apt install ghostscript php php-fpm php-bcmath php-curl php-imagick php-intl php-json php-mbstring php-mysql php-xml php-zip php-pgsql postgresql-client-common postgresql-client
+sudo apt install nginx ghostscript php php-fpm php-bcmath php-curl php-imagick php-intl php-json php-mbstring php-mysql php-xml php-zip php-pgsql postgresql-client-common postgresql-client
 		 
 ```
 
