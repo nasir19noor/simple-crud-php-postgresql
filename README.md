@@ -1,6 +1,6 @@
 ### simple-crud-php-postgresql
 
-Please run this command to install apache and dependency package
+Please run this command to install nginx and dependency package
 
 ```
 sudo apt install nginx ghostscript php php-fpm php-bcmath php-curl php-imagick php-intl php-json php-mbstring php-mysql php-xml php-zip php-pgsql postgresql-client-common postgresql-client
